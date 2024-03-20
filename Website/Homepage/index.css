@@ -1,0 +1,337 @@
+ * {
+  box-sizing: border-box;
+}
+body {
+  font-size: 14px;
+}
+.background {
+  width: 100%;
+  height: 2092px;
+  background: rgba(255,255,255,1);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.imageborder {
+  width: 100%;
+  height: 520px;
+  background: rgba(32,131,178,1);
+  background-position: center;
+  opacity: 1;
+  position: absolute;
+  top: 775px;
+  left: 112px;
+  right: 112px;
+  
+}
+
+.v4368_321108 {
+  width: 227px;
+  height: 64px;
+  background: rgba(1,113,167,1);
+  background-position: center;
+  padding: 19px 32px;
+  margin: 8px;
+  opacity: 1;
+  position: absolute;
+  top: 513px;
+  left: 604px;
+  border-top-left-radius: 8px;
+  border-top-right-radius: 8px;
+  border-bottom-left-radius: 8px;
+  border-bottom-right-radius: 8px;
+  overflow: hidden;
+  
+}
+.v4368_321109 {
+  width: 159px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 19px;
+  left: 32px;
+  font-family: Noto Music;
+  font-weight: Regular;
+  font-size: 20px;
+  opacity: 1;
+  text-align: left;
+}
+.v611_30 {
+  width: 227px;
+  height: 64px;
+  background: rgba(1,113,167,1);
+  padding: 19px 32px;
+  margin: 8px;
+  opacity: 1;
+  position: absolute;
+  top: 1606px;
+  left: 910px;
+  border-top-left-radius: 8px;
+  border-top-right-radius: 8px;
+  border-bottom-left-radius: 8px;
+  border-bottom-right-radius: 8px;
+  overflow: hidden;
+}
+.v611_31 {
+  width: 48px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 19px;
+  left: 90px;
+  font-family: Noto Music;
+  font-weight: Regular;
+  font-size: 20px;
+  opacity: 1;
+  text-align: left;
+}
+.v611_35 {
+  width: 227px;
+  height: 64px;
+  background: rgba(1,113,167,1);
+  padding: 19px 32px;
+  margin: 8px;
+  opacity: 1;
+  position: absolute;
+  top: 1605px;
+  left: 279px;
+  border-top-left-radius: 8px;
+  border-top-right-radius: 8px;
+  border-bottom-left-radius: 8px;
+  border-bottom-right-radius: 8px;
+  overflow: hidden;
+}
+.v611_36 {
+  width: 165px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 19px;
+  left: 32px;
+  font-family: Noto Music;
+  font-weight: Regular;
+  font-size: 20px;
+  opacity: 1;
+  text-align: left;
+}
+.v611_25 {
+  width: 100%;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 1796px;
+  left: 84px;
+  font-family: Inria Sans;
+  font-weight: Regular;
+  font-size: 28px;
+  opacity: 1;
+  text-align: center;
+}
+.v611_24 {
+  width: 362px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 1360px;
+  left: 843px;
+  font-family: Inria Sans;
+  font-weight: Regular;
+  opacity: 1;
+  text-align: center;
+}
+.v611_131 {
+  width: 343px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 1985px;
+  left: 548px;
+  font-family: Inria Sans;
+  font-weight: Regular;
+  font-size: 20px;
+  opacity: 1;
+  text-align: center;
+}
+.v728_1339 {
+  width: 343px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 2015px;
+  left: 548px;
+  font-family: Inria Sans;
+  font-weight: Regular;
+  font-size: 20px;
+  opacity: 1;
+  text-align: left;
+}
+.v611_23 {
+  width: 100%;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 621px;
+  left: 122px;
+  font-family: Inria Sans;
+  font-weight: Regular;
+  font-size: 35px;
+  opacity: 1;
+  text-align: left;
+}
+.v610_9 {
+  width: 100%;
+  color: rgba(1,113,167,1);
+  position: absolute;
+  top: 335px;
+  left: 218px;
+  font-family: Noto Music;
+  font-weight: Regular;
+  font-size: 48px;
+  opacity: 1;
+  text-align: center;
+}
+.v610_21 {
+  width: 519px;
+  height: 462px;
+  background: url("../Homepage/images/v610_21.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 803px;
+  left: 130px;
+  overflow: hidden;
+}
+.v610_22 {
+  width: 647px;
+  height: 462px;
+  background: url("../Homepage/images/v610_22.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 803px;
+  left: 668px;
+  overflow: hidden;
+}
+.v611_75 {
+  width: 100%;
+  height: 239px;
+  background: url("../Homepage/images/v611_75.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.name {
+  color: #fff;
+}
+.name {
+  color: #fff;
+}
+.name {
+  color: #fff;
+}
+.name {
+  color: #fff;
+}
+.v611_74 {
+  width: 264px;
+  height: 187px;
+  background: url("../Homepage/images/v611_74.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 30px;
+  left: 76px;
+  border-top-left-radius: 384px;
+  border-top-right-radius: 384px;
+  border-bottom-left-radius: 384px;
+  border-bottom-right-radius: 384px;
+  overflow: hidden;
+}
+
+.cart-button {
+  border-radius: 8px;
+  background: #0171A7;
+  position: absolute;
+  justify-content: center;
+  padding: 11px 0 35px 0; /* Adjusted padding to increase height */
+  width: 126px;
+  box-sizing: border-box;
+  top: 50px;
+  left: 1700px;
+  
+}
+
+.basket-3 {
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.3;
+  color: #FFFFFF;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  white-space: nowrap; /* Ensures the text stays on one line */
+}
+
+.faq-tab {
+  margin: 16px 0 11px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  box-sizing: border-box;
+}
+.faqs {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.3;
+  color: rgba(109, 109, 109, 1);
+  position: absolute; /* Set position to absolute */
+  top: 120px;
+  left: 1600px;
+}
+
+.installation-tab {
+  margin: 16px 0 11px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  box-sizing: border-box;
+}
+.installation {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.3;
+  color: rgba(109, 109, 109, 1);
+  position: absolute; /* Set position to absolute */
+  top: 120px;
+  left: 1400px;
+}
+
+.shop-tab {
+  margin: 16px 0 11px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  box-sizing: border-box;
+}
+.shop {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.3;
+  color: rgba(109, 109, 109, 1);
+  position: absolute; /* Set position to absolute */
+  top: 120px;
+  left: 1300px;
+}
